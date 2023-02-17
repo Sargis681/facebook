@@ -1,0 +1,86 @@
+.form-com{
+    background-color: rgb(43, 43, 43);
+    color: red;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+.form-com input{
+    width: 90%;
+    border: none;
+    height: 30px;
+    border-radius: 10px;
+}
+.form-com button{
+    /* height: 30px; */
+    background-color: blue;
+    border-radius: 10%;
+    /* display: none; */
+    padding: 5px;
+    border: none;
+    
+
+
+}
+.span{
+    display: flex;
+    justify-content: center;
+}
+.span :nth-child(1){
+    color: white;
+    font-size: 15px;
+    max-width:70%;
+    padding: 5px;
+    font-family: sans-serif;
+    background-color: rgb(24,25,26);
+    border-radius: 10px;
+}
+
+.postTopInp{
+    position: sticky;
+    top: 0;
+    z-index: 10000;
+    background-color:rgb(31,32,33);
+    padding: 20px;
+    border-radius:20px ;
+}
+.postTopInp div{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    
+}
+.postTopInp div input{
+    width: 100%;
+}
+.postTopInp div img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid;
+}
+.postTopInpbut button{
+    width: 30%;
+    border: none;
+    padding: -5px;
+}
+.postTopInpbut{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pot{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    background-color: rgb(138,167,124);
+}
+.pot1{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    background-color: rgb(138,167,124);
+}

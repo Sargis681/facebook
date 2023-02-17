@@ -1,0 +1,7 @@
+.userSt{
+    color: aliceblue;
+    /* padding: 8px; */
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
